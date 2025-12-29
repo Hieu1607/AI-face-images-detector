@@ -2,6 +2,8 @@
 
 Binary classifier for real vs. fake face images using a frozen CLIP ViT-L/14 backbone with a lightweight linear head. Training and evaluation are driven from the notebook notebooks/train-real-vs-fake-face-classifier.ipynb.
 
+Easily understand main content by accessing : https://www.kaggle.com/code/nguyenhieu1607/train-real-vs-fake-face-classifier
+
 ## Data
 - Real: CelebA subset under data/processed/sample_1pct/celeba/ (label 0)
 - Fake: three sources under data/processed/sample_1pct/ — fairfacegen/, person_face_dataset/, stable_diffusion_faces/ (label 1)
