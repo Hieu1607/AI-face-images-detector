@@ -1,0 +1,49 @@
+# Core Deep Learning Libraries
+
+
+# Computer Vision & Image Processing
+kaggle==1.7.4.5
+
+# Scientific Computing
+numpy==1.24.3
+pandas==2.1.1
+scipy==1.11.3
+scikit-learn==1.3.0
+matplotlib==3.8.0
+seaborn==0.12.2
+
+# Model Training & Monitoring
+
+
+# Web Framework & API
+fastapi==0.115.5
+uvicorn==0.32.0
+
+# PyTorch + Vision (ensure installed per your platform)
+# If these fail via requirements, install with platform-specific wheels.
+torch
+torchvision
+Pillow==10.4.0
+
+# CLIP (installed via git in code if missing)
+
+
+# Data Handling & Utilities
+gdown==5.2.0
+python-dotenv==1.0.0
+
+
+# Face Detection Libraries
+
+
+# Image Quality & Metrics
+
+
+# Development & Testing
+
+# Jupyter & Notebooks
+jupyter==1.0.0
+ipykernel==6.25.2
+jupyterlab==4.0.7
+
+gradio==4.39.1
